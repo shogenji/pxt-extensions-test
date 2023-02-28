@@ -1,5 +1,5 @@
 {
-    "name": "MakeCodeの機能拡張を作ってみるテストの機能拡張",
+    "name": "機能拡張を作る",
     "description": "",
     "dependencies": {
         "core": "*",
