@@ -1,7 +1,7 @@
 /**
  * Test for Building Extensions.
  */
-//% color=290 weight=100 icon="\uf0c3" block="Test Blocks"
+//% color=292 weight=100 icon="\uf0c3" block="Test Blocks"
 namespace test {
     //% blockId=show_heart
     //% block="show heart | for $duration milliseconds"
