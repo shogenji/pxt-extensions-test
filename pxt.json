@@ -3,14 +3,13 @@
     "version": "0.0.1",
     "description": "",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "_locales/ja/test-strings.json"
     ],
     "testFiles": [
         "test.ts"
