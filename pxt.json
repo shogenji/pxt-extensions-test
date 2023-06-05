@@ -1,6 +1,6 @@
 {
     "name": "MakeCodeの機能拡張を作ってみるテストの機能拡張",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "",
     "dependencies": {
         "core": "*"
